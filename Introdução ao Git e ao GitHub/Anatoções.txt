@@ -1,0 +1,11 @@
+Links
+
+git status - para ver como está o projeto local 
+
+git clono + link - Clona o repositório do GitHub
+
+git add. ou git add -a - adiociona os novos arquivos ao projeto local 
+
+git cd + pasta que deseja - direciona você para a pasta desejada 
+
+git commit -m "comentário" - Sobe os arquivos para o GitHub
